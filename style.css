@@ -8,3 +8,6 @@ p {
     text-align: center;
     background: #ffffff;
 }
+em strong {
+    color: red;
+}
